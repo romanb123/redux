@@ -26,4 +26,5 @@ const takeposts = (state) => {
     return state;
 
 }
+
 export default connect(takeposts)(Ajaxcall);
